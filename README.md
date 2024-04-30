@@ -21,9 +21,19 @@ Plugins I actively use and recommend
 - [Vs Code Icons] - Vs Code icon collection.
 - [Bearded Theme] - Vs Code theme collection. (I'm using Arc Reversed)
 - [Codeium] - Copilot alternative, code writing assistant
-- [Thunder Client] - It is a lightweight REST API client plugin for Visual Studio Code. 
+- [Postman] - Postman is an API development tool that helps build, test and modify APIs. 
 - [Prettier] - A code formatting tool.
 - [Import Cost] - Will display inline in the editor the size of the imported package
+
+
+## Game Development
+
+Things I use for game development
+
+- [C#] - Enables writing scripts for Unity.
+- [Unity] - The game engine I use for game development.
+- [Blender] - I use it to create 3d designs.
+- [Aseprite] - I use it to create pixel designs.
 
 
 
@@ -35,9 +45,13 @@ Plugins I actively use and recommend
    [Vs Code Icons]: <https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons>
    [Bearded Theme]: <https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedtheme>
    [Codeium]: <https://codeium.com>
-   [Thunder Client]: <https://www.thunderclient.com>
+   [Postman]: <https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode>
    [Prettier]: <https://prettier.io/>
    [Import Cost]: <https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost>
+   [C#]: <https://learn.microsoft.com/en-us/dotnet/csharp/>
+   [Unity]: <https://unity.com/>
+   [Blender]: <https://www.blender.org/>
+   [Aseprite]: <https://www.aseprite.org/>
    
 
 
